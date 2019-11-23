@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+    background-color: aliceblue;
+}
+.portfolio-box{
+	margin: 0;
+    background-color: floralwhite;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    box-shadow: 0 0 10px #0000ff70;
+}
+.heading{
+	text-align: center;
+    padding: 50px;
+}
+h2{
+	    margin: 0;
+    font-size: 38px;
+
+}
+.colour1{
+	color: #353593;
+}
+h1{
+	margin: 0;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.colour2{
+	color: #b23232;
+}
+img{
+	box-shadow: 6px 6px 8px white;
+}
+.detail{
+	padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px; 
+}
+h3{
+	font-size: 20px;
+    margin: 0;
+    color: cadetblue;
+}
+ol{
+	    font-size: 17px;
+    margin-bottom: 5px;
+}
+li{}
